@@ -12,4 +12,4 @@ You can commit to the author of this APP if you found a bug or just have somethi
 ***
 作者：武汉枫叶国际学校机器人社（成开平、段文星、谢博涵）
 
-Author：MLIS-RobotClub（Charlie,Inglam,Jerry）
+Author：MLIS-RobotClub（Charlie,Ingram,Jerry）
